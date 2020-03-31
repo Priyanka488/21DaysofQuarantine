@@ -12,3 +12,9 @@ Completed the Applied Visual Design from freeCodeCamp.
 ### Day 3
 
 https://github.com/collabnix/gopherlabs/pull/10
+
+### Day 4 - 9
+
+- Did questions on advanced recursion, and searching + sorting applications
+- Started with the Crio Qcharm
+- Started learning Cloud 
